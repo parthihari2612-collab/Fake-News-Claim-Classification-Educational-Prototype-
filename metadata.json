@@ -1,0 +1,6 @@
+{
+  "name": "Signal & Source — Claim Classification Lab",
+  "description": "An interactive educational NLP laboratory exploring claim classification, dataset biases, and responsible verification workflows on the LIAR research benchmark.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
